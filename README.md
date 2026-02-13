@@ -1,40 +1,21 @@
-# keyauth-enterprise
-Source code for paid KeyAuth features
+# Welcome to the KeyAuth Enterprise Source!
+> Contains all premium KeyAuth features. (Reseller, seller subscription, etc...)
 
 ### Support
-
-Join the Microsoft Teams!
-
-[Join Microsoft Teams](https://teams.live.com/l/community/FAAU6KZ-TFq92fL8QE)
-
-### **Bugs**
-
-If the default example not added to your software isn't functioning how it should, please report a bug here https://keyauth.cc/app/?page=forms
-
-However, we do **NOT** provide support for adding KeyAuth to your project. If you can't figure this out you should use Google or YouTube to learn more about the programming language you want to sell a program in.
-
-### Make sure you do NOT do the following:
-
-* Do not share this code with anyone
-* Do not sell this code to anyone
-* Do not create an auth service that competes with KeyAuth
+No Support will be provided.
 
 ### Requirements
-
 System that is able to run PHP, MySQL, and Redis. Do note that the requirements to receive setup support though are that you are using a server with CentOS7 installed.
 
 ### Tutorial Videos:
 
 **CentOS 7:** 
-
 Currently I have no CentOS 7 tutorial released as I didn't have enough resources on my Oracle free tier account to make a CentOS 7 machine (as I already have one running for a different website), though if you would like to help installing on CentOS 7, mention `@networking` in the #setup-help channel of the Discord server
 
 **Ubuntu 22.04**
-
 Tutorial video: https://www.youtube.com/watch?v=jT5IVw2CzLY
 
 Commands ran:
-
 ```sh
 sudo nano /root/.ssh/authorized_keys
 sudo apt update
@@ -77,3 +58,5 @@ Copy the repo into any folder, `cd` into the folder, and run these 2 commands:
 chmod +x ./setup.sh
 ./setup.sh
 ```
+
+# Done! Have fun 😉
